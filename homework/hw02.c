@@ -36,3 +36,5 @@ int main(void)
 	
 	return 0;
 }
+
+//https://wm5.nccu.edu.tw/base/10001/course/10027586/content/asgmt02/index.html
