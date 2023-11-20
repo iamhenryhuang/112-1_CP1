@@ -51,3 +51,5 @@ int value(int inputnum){
     }
     return counter; 
 }
+
+//https://wm5.nccu.edu.tw/base/10001/course/10027586/content/asgmt06/index.html
