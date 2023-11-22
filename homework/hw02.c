@@ -37,4 +37,5 @@ int main(void)
 	return 0;
 }
 
-//https://wm5.nccu.edu.tw/base/10001/course/10027586/content/asgmt02/index.html
+//introduction
+//檢查身份證字號是否有效。採用了台灣身份證字號的檢查規則，並進行驗證
