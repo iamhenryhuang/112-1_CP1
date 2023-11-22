@@ -52,4 +52,13 @@ int value(int inputnum){
     return counter; 
 }
 
-//https://wm5.nccu.edu.tw/base/10001/course/10027586/content/asgmt06/index.html
+//introduction
+//對一組數字進行排序，排序的規則是根據一個自定義的 value 函數的結果。在排序的過程中，如果兩個數字經過 value 函數後得到的值相同，則按照原始數字的大小進行排序。
+
+//rule
+//Even number: +20
+//Odd number: +0
+//each "1" or "8" contains in the number: -3
+//each even number contains in the number: +1
+//finally, add each digit of the number into the lucky value.
+//If two numbers have the same lucky value, someone will prefer the smaller number.
