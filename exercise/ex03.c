@@ -27,4 +27,5 @@ int main(void)
     return 0;
 }
 
+//introduction
 //接收一個整數 input，然後根據這個整數建立一個二維陣列 arr1，接著使用巢狀迴圈，將二維陣列每一列的元素進行反向輸出
