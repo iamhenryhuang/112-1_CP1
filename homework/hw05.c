@@ -129,4 +129,5 @@ int main()
     return 0;
 }
 
-//https://wm5.nccu.edu.tw/base/10001/course/10027586/content/asgmt05/index.html
+//introduction
+//五子棋遊戲(長寬皆限制為15)，並且在每一步檢查是否有一方獲勝或達成平局
