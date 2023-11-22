@@ -88,4 +88,6 @@ int main(void)
     return 0;
 }
 
-//https://wm5.nccu.edu.tw/base/10001/course/10027586/content/asgmt03/index.html
+//introduction
+//判斷數讀是否正確。
+//每行、每列的總和都應該等於1到n的和，同時每行和每列都不能有相同的元素
