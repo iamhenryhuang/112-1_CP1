@@ -1,3 +1,7 @@
+//introduction
+//判斷數讀是否正確。
+//每行、每列的總和都應該等於1到n的和，同時每行和每列都不能有相同的元素
+
 #include<stdio.h>
 
 int main(void)
@@ -87,7 +91,3 @@ int main(void)
     
     return 0;
 }
-
-//introduction
-//判斷數讀是否正確。
-//每行、每列的總和都應該等於1到n的和，同時每行和每列都不能有相同的元素
