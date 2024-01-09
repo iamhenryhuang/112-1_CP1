@@ -1,3 +1,6 @@
+//introduction
+//實現矩陣相乘的功能。從標準輸入中不斷讀取兩個矩陣的維度(row and column)和矩陣內的數值，然後計算這兩個矩陣的乘積，並將結果輸出
+
 #include<stdio.h>
 
 int main(void)
@@ -61,6 +64,3 @@ int main(void)
 
     return 0;
 }
-
-//introduction
-//實現矩陣相乘的功能。從標準輸入中不斷讀取兩個矩陣的維度(row and column)和矩陣內的數值，然後計算這兩個矩陣的乘積，並將結果輸出
