@@ -1,3 +1,6 @@
+//introduction
+//五子棋遊戲(長寬皆限制為15)，並且在每一步檢查是否有一方獲勝或達成平局
+
 #include<stdio.h>
 
 int main()
@@ -128,6 +131,3 @@ int main()
 
     return 0;
 }
-
-//introduction
-//五子棋遊戲(長寬皆限制為15)，並且在每一步檢查是否有一方獲勝或達成平局
