@@ -1,3 +1,6 @@
+//introduction
+//這段程式碼計算了兩個矩形的面積，然後比較它們的大小，最後輸出相應的結果
+
 #include<stdio.h>
 #include<math.h>
 #include <stdlib.h>
@@ -48,6 +51,3 @@ int main(void)
 	
 	return 0;
 }
-
-//introduction
-//這段程式碼計算了兩個矩形的面積，然後比較它們的大小，最後輸出相應的結果
