@@ -1,3 +1,6 @@
+//introduction
+//檢查身份證字號是否有效。採用了台灣身份證字號的檢查規則，並進行驗證
+
 #include <stdio.h>
 
 int Letter2int(char c)
@@ -36,6 +39,3 @@ int main(void)
 	
 	return 0;
 }
-
-//introduction
-//檢查身份證字號是否有效。採用了台灣身份證字號的檢查規則，並進行驗證
