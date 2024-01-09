@@ -1,3 +1,6 @@
+//introduction
+//矩形的兩個對角頂點座標分別為 (x1, y1) 和 (x2, y2)。計算給定直角坐標的面積
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -14,6 +17,3 @@ int main(void)
 	
 	return 0;
 }
-
-//introduction
-//矩形的兩個對角頂點座標分別為 (x1, y1) 和 (x2, y2)。計算給定直角坐標的面積
