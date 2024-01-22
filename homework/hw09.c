@@ -1,5 +1,5 @@
 //intro : 神魔之塔
-//remark -> this code is refered to my classmate
+//remark -> this code is refered to classmates
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
